@@ -1,0 +1,6 @@
+General information: 
+ Total     time: 71.49531960487366 
+Charge    time: 33.13524150848389 
+Discharge time: 38.36007809638977 
+Discr: 0.009645887696286246 
+Quant: 0.012890625 
